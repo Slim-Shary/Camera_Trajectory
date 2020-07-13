@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+PyGnuplot.py
+README.rst
+example.py
+setup.cfg
+setup.py
+PyGnuplot.egg-info/PKG-INFO
+PyGnuplot.egg-info/SOURCES.txt
+PyGnuplot.egg-info/dependency_links.txt
+PyGnuplot.egg-info/top_level.txt

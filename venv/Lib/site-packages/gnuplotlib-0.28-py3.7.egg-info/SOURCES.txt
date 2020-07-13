@@ -1,0 +1,10 @@
+MANIFEST.in
+README
+gnuplotlib.py
+setup.cfg
+setup.py
+gnuplotlib.egg-info/PKG-INFO
+gnuplotlib.egg-info/SOURCES.txt
+gnuplotlib.egg-info/dependency_links.txt
+gnuplotlib.egg-info/requires.txt
+gnuplotlib.egg-info/top_level.txt

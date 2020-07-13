@@ -1,0 +1,11 @@
+MANIFEST.in
+README
+numpysane.py
+setup.cfg
+setup.py
+test_numpysane.py
+numpysane.egg-info/PKG-INFO
+numpysane.egg-info/SOURCES.txt
+numpysane.egg-info/dependency_links.txt
+numpysane.egg-info/requires.txt
+numpysane.egg-info/top_level.txt

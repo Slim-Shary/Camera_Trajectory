@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: gnuplotlib
+Version: 0.28
+Summary: Gnuplot-based plotting for numpy
+Home-page: http://github.com/dkogan/gnuplotlib
+Author: Dima Kogan
+Author-email: dima@secretsauce.net
+License: LGPL-3+
+Description: gnuplotlib allows numpy data to be plotted using Gnuplot as a backend. As
+        much as was possible, this module acts as a passive pass-through to Gnuplot,
+        thus making available the full power and flexibility of the Gnuplot backend.
+Platform: UNKNOWN
